@@ -2,7 +2,9 @@
 title: Welcome to my Blog
 ---
 
-This blog contains a collection of notes and how to articles related to material that I have learnt.
+My name is Janadhi
+- I am interested in Cyber Security, Network Engineering and Machine Learning in Finance
+- This blog is essentially a knowledge base of the things that I have learnt and currently learning. 
 
 File System 
 ```
@@ -15,8 +17,10 @@ Notes
 |   └── Linux
 |   └── Malware
 ├── Machine Learning
+|   └── Applied ML
 |   └── Introduction to ML
-|   └── ML for Quantative finance
-|   └── ML Applied
+|   └── Mathematics for ML
+|   └── ML for Quantative Finance
 └── ReadMe
 ```
+
