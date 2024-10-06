@@ -8,12 +8,12 @@ File System
 ```
 Notes
 ├── Cyber Security
-│   └── Malware
+│   └── Active Directory
 |   └── BugBounty
 |   └── Penetration Testing
-|   └── SOC
-|   └── Active Directory
+|   └── Security Operations Center
 |   └── Linux
+|   └── Malware
 ├── Machine Learning
 |   └── Introduction to ML
 |   └── ML for Quantative finance
