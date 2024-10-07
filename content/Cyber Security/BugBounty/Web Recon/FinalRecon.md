@@ -1,6 +1,111 @@
-Web reconaisance can be 
+---
+title: FinalRecon
+tags:
+  - CyberSecurity
+  - WebRecon
+  - OSINT
+---
 
+## What is FinalRecon?
 
+- [FinalRecon](https://github.com/thewhiteh4t/FinalRecon) is a A Python-based reconnaissance tool offering a range of modules for different tasks like SSL certificate checking, Whois information gathering, header analysis, and crawling. Its modular structure enables easy customisation for specific needs.
+
+## About FinalRecon 
+`FinalRecon` offers a wealth of recon information:
+
+- `Header Information`: Reveals server details, technologies used, and potential security misconfigurations.
+- `Whois Lookup`: Uncovers domain registration details, including registrant information and contact details.
+- `SSL Certificate Information`: Examines the SSL/TLS certificate for validity, issuer, and other relevant details.
+- `Crawler`:
+    - HTML, CSS, JavaScript: Extracts links, resources, and potential vulnerabilities from these files.
+    - Internal/External Links: Maps out the website's structure and identifies connections to other domains.
+    - Images, robots.txt, sitemap.xml: Gathers information about allowed/disallowed crawling paths and website structure.
+    - Links in JavaScript, Wayback Machine: Uncovers hidden links and historical website data.
+- `DNS Enumeration`: Queries over 40 DNS record types, including DMARC records for email security assessment.
+- `Subdomain Enumeration`: Leverages multiple data sources (crt.sh, AnubisDB, ThreatMiner, CertSpotter, Facebook API, VirusTotal API, Shodan API, BeVigil API) to discover subdomains.
+- `Directory Enumeration`: Supports custom wordlists and file extensions to uncover hidden directories and files.
+- `Wayback Machine`: Retrieves URLs from the last five years to analyse website changes and potential vulnerabilities.
+
+## Final recon installation process:
+### Environment configuration 
+First you will need to create an environment for you to install FinalRecon. If you are running Kali Linux which runs an externally managed environment direction installations using pip will be restricted.
+``` bash
+sudo apt install python3-venv
+```
+This is to create a virtual environment 
+```bash 
+python3 -m venv myenv
+```
+Now we need to activate the environment
+```bash
+source myenv/bin/activate
+```
+Navigate into the environment using cd command
+```bash 
+cd myenv
+```
+### Final recon Installation step
+To complete the FinalRecon installation we can run the following commands:
+```bash 
+sudo git clone https://github.com/thewhiteh4t/FinalRecon.git
+```
+This is so we clone the git repo in the environment
+```bash 
+cd FinalRecon
+```
+Navigating to the directory 
+```bash 
+pip3 install -r requirements.txt
+```
+Installing the requirements.txt file 
+```bash
+chmod +x ./finalrecon.py
+```
+Making the finalrecon.py file executable
+```bash 
+./finalrecon.py --help
+```
+output:
+```bash
+usage: finalrecon.py [-h] [--url URL] [--headers] [--sslinfo] [--whois]
+                     [--crawl] [--dns] [--sub] [--dir] [--wayback] [--ps]
+                     [--full] [-nb] [-dt DT] [-pt PT] [-T T] [-w W] [-r] [-s]
+                     [-sp SP] [-d D] [-e E] [-o O] [-cd CD] [-k K]
+
+FinalRecon - All in One Web Recon | v1.1.6
+
+optional arguments:
+  -h, --help  show this help message and exit
+  --url URL   Target URL
+  --headers   Header Information
+  --sslinfo   SSL Certificate Information
+  --whois     Whois Lookup
+  --crawl     Crawl Target
+  --dns       DNS Enumeration
+  --sub       Sub-Domain Enumeration
+  --dir       Directory Search
+  --wayback   Wayback URLs
+  --ps        Fast Port Scan
+  --full      Full Recon
+
+Extra Options:
+  -nb         Hide Banner
+  -dt DT      Number of threads for directory enum [ Default : 30 ]
+  -pt PT      Number of threads for port scan [ Default : 50 ]
+  -T T        Request Timeout [ Default : 30.0 ]
+  -w W        Path to Wordlist [ Default : wordlists/dirb_common.txt ]
+  -r          Allow Redirect [ Default : False ]
+  -s          Toggle SSL Verification [ Default : True ]
+  -sp SP      Specify SSL Port [ Default : 443 ]
+  -d D        Custom DNS Servers [ Default : 1.1.1.1 ]
+  -e E        File Extensions [ Example : txt, xml, php ]
+  -o O        Export Format [ Default : txt ]
+  -cd CD      Change export directory [ Default : ~/.local/share/finalrecon ]
+  -k K        Add API key [ Example : shodan@key ]
+```
+
+## Example
+Example of running FinalRecon against the target https://www.inlanefreight.com
 ```bash 
                                                                                                                                                                                                                   
 ┌──(finalReconEnv)─(janadhi㉿Kali)-[~/finalReconEnv/FinalRecon]
@@ -68,4 +173,4 @@ Content-Type : text/html; charset=UTF-8
                                                                                  
 ```
 
-#OSINT #WebRecon
+
