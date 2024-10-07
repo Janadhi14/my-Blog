@@ -47,7 +47,7 @@ const config: QuartzConfig = {
           dark: "#FFBC4D", // header and text icons
           secondary: "#D49335",
           tertiary: "#f8c537",
-          highlight: "#f8c537", // internal link background 
+          highlight: "#333642", // internal link background 
           textHighlight: "#f8c537",
         },
       },
