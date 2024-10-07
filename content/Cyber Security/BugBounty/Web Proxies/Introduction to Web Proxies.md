@@ -4,7 +4,8 @@ Web proxies are specialised tools that can be set up between a browser/mobile ap
 - Web proxies mainly work at web ports such as but not limited to HTTP/80 and HTTPS/443
 - Web proxies function to capture and replay web requests.
 
-![Client and server](./screenshot.png)
+![[./screenshot.png]](./screenshot.png)
+
 
 ## Main 
 
