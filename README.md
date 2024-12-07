@@ -1,10 +1,9 @@
-# My Blog:
+# Janadhi's Blog:
 
 Welcome to my Blog, This Project is written in Obsidian and deployed using Quartz
-> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
 
-Quartz is a set of tools that helps you publish your [digital garden](https://jzhao.xyz/posts/networked-thought) and notes as a website for free.
-Quartz v4 features a from-the-ground rewrite focusing on end-user extensibility and ease-of-use.
+Basic configurations for screenshots:
+
 
 🔗 Read the documentation and get started: https://quartz.jzhao.xyz/
 
