@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Janadhi's Knowledge Base  🐿️",
+    pageTitle: "Janadhi's Knowledge Base 🪼",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
@@ -43,11 +43,11 @@ const config: QuartzConfig = {
           light: "#242424",// page background 
           lightgray: "#393639", // borders
           gray: "#646464",
-          darkgray: "#faf2d6", // body text 
-          dark: "#FFBC4D", // header and text icons
-          secondary: "#D49335",
-          tertiary: "#f8c537",
-          highlight: "#333642", // internal link background 
+          darkgray: "#b3e8ff", // body text 
+          dark: "#79d6ff", // header and text icons
+          secondary: "#81b3ff",
+          tertiary: "81b3ff",
+          highlight: "#2a52a7 ", // internal link background 
           textHighlight: "#f8c537",
         },
       },
