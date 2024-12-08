@@ -23,6 +23,3 @@ Notes
     └── ML for Quantative Finance
 
 ```
-
-## Configuration
-- Screenshots 
