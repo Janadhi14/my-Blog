@@ -3,11 +3,9 @@ title: Welcome to my Blog
 ---
 
 My name is Janadhi
-
-
-- This blog is a working progress of content that I learn and exists as a note book for document my progress. 
+- Currently I am working as a Networking Intern at the University of Otago.
 - I am interested in Cyber Security, Network Engineering.
-- Currently working as a Networking Intern at the University of Otago.
+- This blog is a colletion of my notes that I take as I learn and document my progress. 
 - Working my way through OSINT Techniques by Michael Bazzell.
 
 
