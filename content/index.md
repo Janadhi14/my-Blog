@@ -4,8 +4,12 @@ title: Welcome to my Blog
 
 My name is Janadhi
 
-- I am interested in Cyber Security, Network Engineering and Machine Learning for Finance
-- This blog is essentially a knowledge base of the things that I have learnt and currently learning. 
+
+- This blog is a working progress of content that I learn and exists as a note book for document my progress. 
+- I am interested in Cyber Security, Network Engineering.
+- Currently working as a Networking Intern at the University of Otago.
+- Working my way through OSINT Techniques by Michael Bazzell.
+
 
 File System 
 ```
@@ -31,8 +35,6 @@ Notes
     ├── Mathematics for ML
     ├── Applied ML
     └── ML for Quantitative Finance
-
-
 
 ```
 
