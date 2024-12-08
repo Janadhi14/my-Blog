@@ -11,23 +11,27 @@ File System
 ```
 Notes
 ├── Cyber Security
-│   └── Active Directory
-|   └── Kali
-|   └── Penetration Testing
-|   └── Security Operations Center
-|   └── Malware
-└── Networking
-|   └── Fundamentals
-|   └── Wireless
-|   └── 
-|   └── 
-└── Wireless
-|   └── Mathematics for ML
+│   ├── Active Directory
+│   ├── Kali
+│   ├── Penetration Testing
+│   ├── Security Operations Center
+│   └── Malware
+├── Networking
+│   ├── Fundamentals
+│   ├── Wireless
+│   ├── Routing and Switching
+│   └── Network Protocols
+├── Certifications
+│   ├── CompTIA Network+
+│   ├── CompTIA Security+
+│   ├── Cisco CCNA
+│   └── Certified Ethical Hacker (CEH)
 └── Machine Learning
-    └── Applied ML
-    └── Introduction to ML
-    └── Mathematics for ML
-    └── ML for Quantative Finance
+    ├── Introduction to ML
+    ├── Mathematics for ML
+    ├── Applied ML
+    └── ML for Quantitative Finance
+
 
 
 ```
