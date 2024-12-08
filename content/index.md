@@ -24,10 +24,7 @@ Notes
 │   ├── Routing and Switching
 │   └── Network Protocols
 ├── Certifications
-│   ├── CompTIA Network+
 │   ├── CompTIA Security+
-│   ├── Cisco CCNA
-│   └── Certified Ethical Hacker (CEH)
 └── Machine Learning
     ├── Introduction to ML
     ├── Mathematics for ML
