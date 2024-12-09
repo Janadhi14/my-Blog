@@ -10,7 +10,7 @@ Lastly, the two nights before your exam, watch a cram session video for the exam
 using course notes from professor messor
 ## Course outline 
 
-#### General Security Concepts
+#### 1.0 General Security Concepts
 
 1.1 - Security Controls 1
 
