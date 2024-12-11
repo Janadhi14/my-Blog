@@ -1,7 +1,7 @@
 ---
 title: Welcome to my Blog
 ---
-![[Screenshot1.png|200]]
+![[ProfilePic.png|200]]
 
 Hello World!  
 My name is Janadhi.
