@@ -9,7 +9,6 @@ My name is Janadhi.
 - I am interested in Cyber Security, Network Engineering, Machine Learning and Intelligence Gathering.
 - This blog is a collection of the notes that I take as I document my progress. 
 - Working my way through OSINT Techniques by Michael Bazzell.
-- 
 
 File System 
 ```
@@ -38,3 +37,5 @@ Connect with me on:
 - [[https://www.linkedin.com/in/janadhi-dissanayake-b7775a20b/|Linkedin]]
 - [[https://janadhi14.github.io/Janadhi/ |Portfolio website]]
 - [[https://github.com/Janadhi14 |Github]]
+## General Words of Advice on Learning in the Modern Era
+- In the modern day and age it is very difficult 
