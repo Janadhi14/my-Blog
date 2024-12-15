@@ -26,7 +26,7 @@ Notes
 ├── Certifications
 │   └── CompTIA Security+
 ├── Machine Learning
-│  ├── Introduction to ML
+│   ├── Introduction to ML
 │   ├── Mathematics for ML
 │   ├── Applied ML
 │   └── ML for Quantitative Finance
