@@ -1,7 +1,7 @@
 ---
 title: Welcome to my Blog
 ---
-![[content/Screenshots/ProfilePic.png|200]]
+![[ProfilePic.png|200]]
 
 Connect with me on:
 - [[https://janadhi14.github.io/Janadhi/|Portfolio Website]]
