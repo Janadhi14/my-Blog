@@ -26,10 +26,10 @@ Notes
 ├── Certifications
 │   └── CompTIA Security+
 ├── Machine Learning
-|   ├── Introduction to ML
-|   ├── Mathematics for ML
-|   ├── Applied ML
-|   └── ML for Quantitative Finance
+│  ├── Introduction to ML
+│   ├── Mathematics for ML
+│   ├── Applied ML
+│   └── ML for Quantitative Finance
 └── Networking
     ├── Fundamentals
     ├── Wireless
@@ -49,6 +49,5 @@ In today’s world, information changes rapidly. Skills that were relevant two y
 
 #### Building your foundations early:
 From discussing with many people in the field
-- Gaining 
-
-testing
+- Developing a Breadth of knowledge during the start of your career is the best thing to do
+- From here you can decide what areas you enjoy and are intereste in 
