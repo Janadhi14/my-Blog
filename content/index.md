@@ -10,7 +10,7 @@ Connect with me on:
 
 ## Hello World!  
 My name is Janadhi.
-- Currently I am working as a Networking Intern at the University of Otago.
+- Working as a Networking Intern @ University of Otago.
 - I am interested in Cyber Security, Network Engineering, Machine Learning and Intelligence Gathering.
 - This blog is a collection of the notes that I take as I document my progress. 
 - Working my way through OSINT Techniques by Michael Bazzell.
