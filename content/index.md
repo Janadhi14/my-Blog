@@ -6,7 +6,6 @@ title: Welcome to my Blog
 Connect with me on:
 - [[https://janadhi14.github.io/Janadhi/|Portfolio Website]]
 - [[https://www.linkedin.com/in/janadhi-dissanayake-b7775a20b/|Linkedin]]
-- [[https://janadhi14.github.io/Janadhi/ |Portfolio website]]
 - [[https://github.com/Janadhi14 |Github]]
 
 ## Hello World!  
@@ -39,5 +38,3 @@ Notes
     └── Network Protocols
 ```
 
-## Progression
-- Certifications and Experience
