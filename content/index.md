@@ -37,6 +37,3 @@ Notes
     ├── Routing and Switching
     └── Network Protocols
 ```
-
-
-testing 2 
