@@ -11,8 +11,8 @@ using course notes from professor messors free 701 material on youtube and throu
 
 
 5 days out from the exam 
-- Try the pearson connection
-- 
+- Try the pearson connection to ensure that you can get a good exam experience 
+- Replicate the exam conditions 
 
 ## Study plan 
 20 days of study 
