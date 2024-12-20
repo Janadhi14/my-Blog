@@ -29,28 +29,32 @@ const config: QuartzConfig = {
       },
       colors: {
         lightMode: {
-          light: "#faf8f8",
-          lightgray: "#e5e5e5",
-          gray: "#b8b8b8",
-          darkgray: "#4e4e4e",
-          dark: "#2b2b2b",
-          secondary: "#284b63",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#fff23688",
+          light: "#F2F4F3",        // Off-white
+          lightgray: "#F4A460",    // Sandy brown
+          gray: "#FF9B42",         // Orange
+          darkgray: "#291720",     // Fuchsia rose
+          dark: "#291720",         // Dark magenta-pink
+          secondary: "#291720",     // Green
+          tertiary: "#FFAD05",      // Teal
+          highlight: "#BD4F6C",     // Muted pink
+          textHighlight: "#291720", // Dark purple
         },
         darkMode: {
-          light: "#242424",// page background 
-          lightgray: "#393639", // borders
-          gray: "#646464",
-          darkgray: "#b3e8ff", // body text 
-          dark: "#79d6ff", // header and text icons
-          secondary: "#81b3ff",
-          tertiary: "81b3ff",
-          highlight: "#2a52a7 ", // internal link background 
-          textHighlight: "#f8c537",
+          light: "#242424",        // background
+          lightgray: "#00142E",    // outline
+          gray: "#F2F4F3",         // Orange
+          darkgray: "#BAE0EE",     // Fuchsia rose
+          dark: "#F2F4F3",         // Dark magenta-pink
+          secondary: "#F2F4F3",     // Green
+          tertiary: "#B6F3F4",      // Teal
+          highlight: "#1941BE",     // Muted pink
+          textHighlight: "#291720", // Dark purple
         },
-      },
+        
+        
+        }
+      
+      
     },
   },
   plugins: {

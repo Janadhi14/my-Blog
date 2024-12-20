@@ -8,9 +8,6 @@ Online Anonymity
 ##### Best Account Creating practices
 
 
-Tool requirements
-- 
-
 
 
 

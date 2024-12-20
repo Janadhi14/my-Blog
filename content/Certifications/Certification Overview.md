@@ -2,5 +2,3 @@
 ## AWS
 ![[AWScertifications.png]]
 
-
-test 2 
