@@ -36,20 +36,32 @@ const config: QuartzConfig = {
           dark: "#291720",         // Dark magenta-pink
           secondary: "#291720",     // Green
           tertiary: "#FFAD05",      // Teal
-          highlight: "#BD4F6C",     // Muted pink
+          highlight: "#FFCF6A",     // Muted pink
           textHighlight: "#291720", // Dark purple
         },
         darkMode: {
-          light: "#242424",        // background
-          lightgray: "#00142E",    // outline
+          light: "#00142E",        // background
+          lightgray: "#394053",    // outline
           gray: "#F2F4F3",         // Orange
           darkgray: "#BAE0EE",     // Fuchsia rose
           dark: "#F2F4F3",         // Dark magenta-pink
           secondary: "#F2F4F3",     // Green
           tertiary: "#B6F3F4",      // Teal
-          highlight: "#1941BE",     // Muted pink
+          highlight: "#394053",     // Muted pink
           textHighlight: "#291720", // Dark purple
         },
+        
+        // darkMode: {
+        //   light: "#F2F4F3",        // White Smoke
+        //   lightgray: "#BAE0EE",    // Light Blue
+        //   gray: "#394053",         // Charcoal
+        //   darkgray: "#00142E",     // Oxford Blue
+        //   dark: "#FFAD05",         // Orange (web)
+        //   secondary: "#BAE0EE",     // Light Blue
+        //   tertiary: "#394053",      // Charcoal
+        //   highlight: "#F2F4F3",     // White Smoke
+        //   textHighlight: "#FFAD05", // Orange (web)
+        // },
         
         
         }

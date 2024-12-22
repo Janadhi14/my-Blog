@@ -19,3 +19,7 @@ Information can be separated into **facts** and **concepts**
 		- The only way to get good at skills that can be applied is to do them repeated to build that muscle memory.
 		- Process based concepts can be tricky but the best way I have found to remember these is through Anki through close selections especially diagram based processes.
 
+## Study Timeline
+The following contains a link to the template that I use to prepare for examinations :
+- [[https://docs.google.com/spreadsheets/d/13p4ZQaBkEjr8GDLwMsVpBJL4w70r_eKhlhXUHKPvQSM/edit?usp=sharing|Google Sheet Study Template]]
+

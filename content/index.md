@@ -18,23 +18,28 @@ My name is Janadhi.
 ## File System 
 ```
 Notes
-├── Cyber Security
-│   ├── Active Directory
-│   ├── Kali
-│   ├── Penetration Testing
-│   ├── Security Operations Center
-│   └── Malware
 ├── Certifications
-│   └── CompTIA Security+
+│   ├── Amazon
+│   ├── CCNA
+│   ├── CompTia
+│   ├── Microsoft
+│   └── OSCP
+├── Cyber Security
+│   ├── Blue Team
+│   ├── Cryptography and PKI
+│   ├── Governance Risk and Compliance
+│   ├── Malware Analysis and Threat Detection
+│   ├── Projects
+│   ├── Red Team
+│   └── Resources
 ├── Machine Learning
 │   ├── Introduction to ML
-│   ├── Mathematics for ML
-│   ├── Applied ML
-│   └── ML for Quantitative Finance
+│   └── Mathematics for ML
 └── Networking
-    ├── Fundamentals
-    ├── Wireless
+    ├── Cloud
+    ├── Network Security
     ├── Routing and Switching
-    └── Network Protocols
+    └── Wireless
+
 ```
  
