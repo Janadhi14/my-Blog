@@ -13,7 +13,16 @@ using course notes from professor messors free 701 material on youtube and throu
 5 days out from the exam 
 - Try the pearson connection to ensure that you can get a good exam experience 
 - Replicate the exam conditions 
+## ChatGPT
+This was a prompt that i found from [[https://www.youtube.com/shorts/70DL2X48Lp8 | Ben Truong's ]] youtube channel and how he used Chat GPT for this exam.
+"I am currently studying to get my CompTIA Security+. I want you to act as if you are my tutor preparing me for the test. I am going to ask you about a bunch of different
 
+concepts, I want your answers to include a few things.
+
+1. ﻿﻿﻿General overview of the concept
+2. ﻿﻿﻿What I might need to know about it for the Security+ exam
+
+Answer all of my question in this format, until I say otherwise. Can you do that for me?"
 ## Study plan 
 20 days of study 
 Exam on the 3rd of Feb 6:30 pm as of 17/12/2024 will be updated when I pass this examination
@@ -39,20 +48,19 @@ Tuesday
 - [x]  Obfuscation
 - [x]  Hashing and Digital Signatures
 - [x]  Blockchain Technology
-- [ ]  Certificates
+- [x]  Certificates
 #### Threats, Vulnerabilities, and Mitigations
 Wednesday
-- [ ]  Threat Actors
-- [ ]  Common Threat Vectors
-- [ ]  Phishing
-- [ ]  Impersonation
-- [ ]  Watering Hole Attacks
-- [ ]  Other Social Engineering Attacks
-- [ ]  Memory Injections
-- [ ]  Buffer Overflows
-- [ ]  Race Conditions
+- [x]  Threat Actors
+- [x]  Common Threat Vectors
+- [x]  Phishing
+- [x]  Impersonation
+- [x]  Watering Hole Attacks
+- [x]  Other Social Engineering Attacks
+- [x]  Memory Injections
+- [x]  Buffer Overflows
+- [x]  Race Conditions
 ---------
-Thursday
 - [ ]  Malicious Updates
 - [ ]  Operating System Vulnerabilities
 - [ ]  SQL Injection
@@ -64,7 +72,6 @@ Thursday
 - [ ]  Misconfiguration Vulnerabilities
 - [ ]  Mobile Device Vulnerabilities
 ------------
-Friday
 - [ ]  Zero-day Vulnerabilities
 - [ ]  An Overview of Malware
 - [ ]  Viruses and Worms
@@ -76,7 +83,6 @@ Friday
 - [ ]  Wireless Attacks
 - [ ]  On-path Attacks
 -----------
-Saturday
 - [ ]  Replay Attacks
 - [ ]  Malicious Code
 - [ ]  Application Attacks
