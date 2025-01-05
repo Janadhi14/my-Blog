@@ -61,18 +61,18 @@ Wednesday
 - [x]  Buffer Overflows
 - [x]  Race Conditions
 ---------
-- [ ]  Malicious Updates
-- [ ]  Operating System Vulnerabilities
-- [ ]  SQL Injection
-- [ ]  Cross-site Scripting
-- [ ]  Hardware Vulnerabilities
-- [ ]  Virtualisation Vulnerabilities
-- [ ]  Cloud-specific Vulnerabilities
-- [ ]  Supply Chain Vulnerabilities
-- [ ]  Misconfiguration Vulnerabilities
-- [ ]  Mobile Device Vulnerabilities
+- [x]  Malicious Updates
+- [x]  Operating System Vulnerabilities
+- [x]  SQL Injection
+- [x]  Cross-site Scripting
+- [x]  Hardware Vulnerabilities
+- [x]  Virtualisation Vulnerabilities
+- [x]  Cloud-specific Vulnerabilities
+- [x]  Supply Chain Vulnerabilities
+- [x]  Misconfiguration Vulnerabilities
+- [x]  Mobile Device Vulnerabilities
 ------------
-- [ ]  Zero-day Vulnerabilities
+- [x]  Zero-day Vulnerabilities
 - [ ]  An Overview of Malware
 - [ ]  Viruses and Worms
 - [ ]  Spyware and Bloatware
@@ -93,7 +93,6 @@ Wednesday
 - [ ]  Mitigation Techniques
 - [ ]  Hardening Techniques
 #### Security Architecture
-Sunday
 - [ ]  Cloud Infrastructures
 - [ ]  Network Infrastructure Concepts
 - [ ]  Other Infrastructure Concepts
@@ -104,7 +103,6 @@ Sunday
 - [ ]  Port Security
 - [ ]  Firewall Types
 -------
-Monday
 - [ ]  Secure Communication
 - [ ]  Data Types and Classifications
 - [ ]  States of Data
@@ -115,7 +113,6 @@ Monday
 - [ ]  Backups
 - [ ]  Power Resiliency
 #### Operations and Incident Response
-Tuesday
 - [ ]  Secure Baselines
 - [ ]  Hardening Targets
 - [ ]  Securing Wireless and Mobile
@@ -126,7 +123,6 @@ Tuesday
 - [ ]  Threat Intelligence
 - [ ]  Penetration Testing
 ----------
-Wednesday
 - [ ]  Analyzing Vulnerabilities
 - [ ]  Vulnerability Remediation
 - [ ]  Security Monitoring
@@ -138,7 +134,6 @@ Wednesday
 - [ ]  Email Security
 - [ ]  Monitoring Data
 -------
-Thursday
 - [ ]  Endpoint Security
 - [ ]  Identity and Access Management
 - [ ]  Access Controls
@@ -150,7 +145,6 @@ Thursday
 - [ ]  Digital Forensics
 - [ ]  Log Data
 #### Governance, Risk, and Compliance
-Friday
 - [ ]  Security Policies
 - [ ]  Security Standards
 - [ ]  Security Procedures
@@ -160,7 +154,6 @@ Friday
 - [ ]  Risk Analysis
 - [ ]  Risk Management Strategies
 ----
-Saturday
 - [ ] Business Impact Analysis
 - [ ]  Third-party Risk Assessment
 - [ ]  Agreement Types

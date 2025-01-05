@@ -1,7 +1,8 @@
-## Refining the study process
-The learning process is something that is continuous and can be different for everyone. 
-Information can be separated into **facts** and **concepts** 
-- The best way to remember factual information is through spaced repetition:
+## Refining My study process
+Learning is different for everyone.
+
+When learning new things you can seperate information into **facts** and **concepts**:
+- The best way to remember **factual** information is through **spaced repetition**:
 	- For this I use Anki which is a free spaced repetition software that you can modify the repetition intervals to suit your recalling ability:
 	- Close selection cards seem to be the best for recalling imo.
 	- [[https://apps.ankiweb.net/|Anki]]
