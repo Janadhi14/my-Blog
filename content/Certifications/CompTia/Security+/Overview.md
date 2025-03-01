@@ -3,7 +3,7 @@
 ## Recommendation
 Watch any comprehensive video course on SY0-701 (Mike Chapple, Professor Messer, Mike Myers etc) watching any one of them on double speed 2X to shorten study time.
 
-Then simply practice doing exams based on the topics that you have knoweledge gaps in. So depending on what YOU already know it can take anywhere from 10 hours of study to 20-30 hours of study for 1-2 hours per day so that you actually retain the information.
+Then simply practice doing exams based on the topics that you have knowlege gaps in. So depending on what YOU already know it can take anywhere from 10 hours of study to 20-30 hours of study for 1-2 hours per day so that you actually retain the information.
 
 Lastly, the two nights before your exam, watch a cram session video for the exam that's like 5 hours long and watch that in full both nights whilst also doing practice tests. The very night before your exam pull an all nighter and cram in as much information as possible... I'm talking like a 24 hour study session lol. To put your brain on Waterboy / Rain Man levels drink a can or two of redbull without the sugar so you dont crash. The caffeine will keep your energy levels up and will allow you to retain more information during a study cram session.
 
@@ -24,8 +24,8 @@ concepts, I want your answers to include a few things.
 
 Answer all of my question in this format, until I say otherwise. Can you do that for me?"
 ## Study plan 
-20 days of study 
-Exam on the 3rd of Feb 6:30 pm as of 17/12/2024 will be updated when I pass this examination
+40 days of study 
+Exam on the 2nd of March 8:00 am
 #### General Security Concepts
 
 - [x]  Security Controls

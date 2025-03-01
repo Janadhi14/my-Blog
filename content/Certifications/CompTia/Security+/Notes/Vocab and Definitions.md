@@ -18,7 +18,7 @@ DDOS
 Typosquatting
 BEC- Business email compromise
 MDM - mobile device management 
-Sideloading
+Sideloadingd
 
 ## Definitions
 Secure enclave vs TPM:

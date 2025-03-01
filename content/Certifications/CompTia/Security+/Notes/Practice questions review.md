@@ -81,3 +81,18 @@ RA -  registration authority in PKI who is responsible for verifying the identit
 
 
 A **self-signed certificate** is a digital certificate that is signed by the same entity whose identity it certifies,
+
+
+
+
+## DDoS attack types
+Amplified DDoS Attack:
+
+Volumetric DDoS Attack:
+ - These attacks aim to consume the target’s bandwidth by overwhelming it with massive amounts of traffic
+Reflected DDoS Attack:
+
+
+Application DDoS Attacks
+- Targets the application layer (Layer 7 of the OSI model) to overload specific functions or endpoints. These attacks are more sophisticated and require less bandwidth compared to volumetric attacks.
+
