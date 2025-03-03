@@ -24,7 +24,7 @@ A node is any device that connects to a network
 
 A resource is anything that can be accessed or used over the network
 
-A client is a device that accesses a service provided yb a server and a server is a device thta provides services for clients 
+A client is a device that accesses a service provided by a server and a server is a device that provides services for clients 
 
 clients and servers aren't specific types 
 
@@ -69,7 +69,7 @@ Devices connected to a switch are able to communicate with each other via the sw
 The role of a switch is not to provide connectivity between LANs or to external networks eg you would not connect a switch directly to the internet 
 ## Routers 
 We want our end hosts to be able to communicate with external networks too. 
-eg: for end hosts to communicate over the internet we need a device that provides connectivitiy between LANs and the internet which is called a router (on the edge of the LAN and connected to the switch)
+eg: for end hosts to communicate over the internet we need a device that provides connectivity between LANs and the internet which is called a router (on the edge of the LAN and connected to the switch)
 
 Routers are not used to connect many end hosts within a LAN. 
 Instead they are placed at the edge of a LAN and used to enable ommunications between LANs and external networks such as the internet 
@@ -157,7 +157,7 @@ there are 2 different types of physical connections:
 - copper cables 
 - fibre-optic cables 
 There are several governing bodies that define the standards used in computer networks 
-- IEEE. which means instituite of electrical and electronisc engineers 
+- IEEE. which means institute of electrical and electronic engineers 
 - and first they defined IEEE 802.3 standard which is better known as ethernet 
 - wifi is known as IEEE 802.11 wireless 
 
@@ -169,7 +169,7 @@ terms like gigabit internet connection or a file that is x gigaytes in size
 
 
 What is a **bit**?
-- **this is the most basic unit of information used by computers**
+- **This is the most basic unit of information used by computers**
 - The word bit is simply a blend of the words binary digit
 - Binary is a **number system** that expresses all values using only 2 digits : 
 	- 0 and 1 
@@ -181,7 +181,7 @@ They Compute and communicate in binary
 
 In modern networks computers often send these bits at the rate of billions of bits per second 
 
-Exactly how are these 0s adn 1s conveyed depends on the medium 
+Exactly how are these 0s and 1s conveyed depends on the medium 
 for example 0s and 1s can be communicated over copper wirting by modifying the voltage of the electrical signal between the 2 devices, voltage x represents a value of 0 and voltage y represents a value of 1 
 
 Understanding the binary number system is very important for the CCNA exam 
@@ -211,20 +211,61 @@ Copper UTP connections
 
 #### Copper cables
 - This is the standard ethernet cable 
-- **8P8C - 8 port 8 contact ceonnector** of an ethernet cable on the right the name refers to the fact that there are **8 pins on the connector** 
+- **8P8C - 8 port 8 contact connector** of an ethernet cable on the right the name refers to the fact that there are **8 pins on the connector** 
 - - one for each of the 8 wires inside of the cable 
 - These connectors allow the cable to connect to ports 
-- Another name for the is the RJ45 - registered jack 
+- Another name for the is the **RJ45** - registered jack 
 
 The type of fables used for these connections are called unshielded twisted pair cables (UTP)
-There are also shielded twsted pair cables bit they are less common(STP)
+There are also shielded twisted pair cables bit they are less common(STP)
 
 
 Each UTP cable contains 8 individual wires inside, twisted together to make 4 pairs 
 
 
-Unshielded-  meaning the wires dont have a metallic shield around them 
+Unshielded-  meaning the wires don't have a metallic shield around them 
 - this shield can reduce electromagnetic interference but is not present in UTP cables 
 Twisted pair- the 8 wires in the cable are twisted together to or 4 pairs of 2 wires each, 
 	- the twisting of the wires reduces EMI between the wires of each pair 
-	- 
+
+The name of the IEEE task group that defined the standard is also used to refer to the standard itself 
+- these names begin with IEEE802.3 followed by a letter 
+- The third name is an information name given by the IEEE that indicates both the speed and cable type 
+
+
+The IEEE assigns working groups to develop specific technologies. The two main working groups relevant to the CCNA are 802.3 (tasked with developing the Ethernet standard for wired networks) and 802.11 (wireless LANs, also known as Wi-Fi).
+
+A handful of ethernet standards 
+![[Screenshot 1.png]]
+Each of these stanrads supports a maximum cable length of 100meters. 
+- using a cable length that is longer than the listed maximum can result in signal attenuation ad decreased performance 
+- Maximum cable length can be a problem for copper UTP connections
+- Increased maximum cable length is a major advantange of fibre-optic cables over copper UTP cables 
+
+![[Screenshot 2.png]]
+- Although these days all UTP cables used for network communications have 4 pairs of wires(8 wires) and not all of the ethernet standards use all 4 pairs of wires 
+
+
+- 10BASE-T uses two pairs (four wires).
+- 100BASE-T uses two pairs (four wires).
+- 1000BASE-T uses four pairs (eight wires).
+- 10GBASE-T uses four pairs (eight wires).”
+
+Each wire inside of the cable is connected to one of the 8 pins of the 8pc8c connector
+
+for devices to communicate over these wire pairs each wire pair forms an electrical circuit between the 2 connected devices 
+
+
+### Straight through cables 
+- 10BASE-T and 100BASE-T use 2 wire pairs, one for each direction 
+- the pair connected to pins 1 and 2 
+- the pars connected to 3 and 6 
+
+### Crossover cables 
+
+## Auto medium-dependent interface crossover 
+- auto MDI-X 
+- This allows a device to change which pins it will use to transmit and receive data depending on the device they are connected to 
+- you should know about straight-through and crossover cables as a potential exam questions 
+- 
+
