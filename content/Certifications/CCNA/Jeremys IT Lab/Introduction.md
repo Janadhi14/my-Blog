@@ -16,7 +16,7 @@ Building a network
 
 A LAN is a local area network - a group of interconnected devices in a limited area such as an office 
 
-The conncetion between offices is called a wide area network(WAN) - a network that extends over a large geographical area
+The connection between offices is called a wide area network(WAN) - a network that extends over a large geographical area
 
 We can define a computer network as a **telecommunications network that allows nodes to share resources** 
 
