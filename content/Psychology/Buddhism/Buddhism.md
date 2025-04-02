@@ -27,8 +27,7 @@ Meditation is one of the core components of buddishim. it is used to cultivate m
 #### Toglen
 #### Kinhin
 #### Yoga Nidra
- overcoming fear and and attachment
-
+To keep bad men from dominating you need good men who are capable of being quite terrible
 
 
 

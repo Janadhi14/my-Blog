@@ -2,7 +2,7 @@
 The mind is neg
 
 ## Buddhism on the negative bias 
-The negative bias of the mind is a phenomenon that the buddhists acklnowledged
+The negative bias of the mind is a phenomenon that the buddhists acknowledged
 
 
 ## Positive bias training

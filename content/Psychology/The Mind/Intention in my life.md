@@ -36,5 +36,6 @@ That’s what the Stoics urge us to consider. Not how things appear, but what ef
 
 
 
+If you don't own something, you're not the boss. You have to take full responsibility for everything that you do. Why be subservient? You must be the master of your own kingdom. You've got to own things - you can't just walk into things with your eyes half open, you've got to walk into things with your eyes fully open. You've got to know what you're getting into: you have to take possession of your own lif
 
 
