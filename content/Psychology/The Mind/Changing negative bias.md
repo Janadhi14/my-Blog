@@ -8,3 +8,9 @@ The negative bias of the mind is a phenomenon that the buddhists acknowledged
 ## Positive bias training
 **Practice Positive Bias** – Intentionally **look for one good thing** about each person you meet
 
+## Happiness
+- be very careful of your desires 
+- Focus on one desire at a time 
+- Happiness comes from peace
+
+## Gratitude

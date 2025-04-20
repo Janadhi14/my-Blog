@@ -1,4 +1,4 @@
-## Refining My study process
+## Study methodology
 Learning is different for everyone.
 
 When learning new things you can seperate information into **facts** and **concepts**:
@@ -19,8 +19,8 @@ When learning new things you can seperate information into **facts** and **conce
 	- Conceptual content can be further broken down into skills that can be applied and processes.
 		- The only way to get good at skills that can be applied is to do them repeated to build that muscle memory.
 		- Process based concepts can be tricky but the best way I have found to remember these is through Anki through close selections especially diagram based processes.
-
-## Study Timeline
-The following contains a link to the template that I use to prepare for examinations :
-- [[https://docs.google.com/spreadsheets/d/13p4ZQaBkEjr8GDLwMsVpBJL4w70r_eKhlhXUHKPvQSM/edit?usp=sharing|Google Sheet Study Template]]
-
+In addition to this there will be practical lab elements that will require hands on experience, there is no other way to learn this stuff, it just has to be practiced.
+## Study timeline 
+Prior to sitting an exam I always try to do a practice paper without any knowledge. 
+- after doing this practice paper you will realise what are the concepts that are going to be covered in the exam 
+- 
