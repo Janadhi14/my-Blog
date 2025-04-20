@@ -138,17 +138,3 @@ Organize your findings in a structured table.
 
 ---
 
-**Summary**
-
-Pentesting an AI chatbot requires a combination of traditional web application security techniques and model behavior testing. Key areas include:
-
-1. Web application security.
-    
-2. API and backend security.
-    
-3. LLM-specific vulnerabilities such as prompt injection, data leakage, and jailbreaks.
-    
-
----
-
-If you’d like, I can help draft a sample penetration test report template for chatbot applications, or walk through example payloads for each of these categories. What type of chatbot system are you working with?
