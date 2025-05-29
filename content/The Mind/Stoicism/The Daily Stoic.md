@@ -16,36 +16,6 @@
 							- cybersecurity related information 
 							- learning things and memorizing
 							- Talking with people 
-			- Being in touch with your religion and beliefs/values
-				- buddhism 
-				- [[Ethics]]
-			- Have a home to raise our kids in and live.
-- My efforts to return on to a better path:
-	- [x] Firstly getting 1 week of part time 2-5pm work done 
-		- [x] Monday
-		- [x] Tuesday
-		- [x] Wednesday
-		- [x] Thursday
-		- [x] Friday
-	- [x] End of week reflection 
-	- [ ] 2 weeks of 2-5pm work done 
-		- [ ] Monday
-		- [ ] Tuesday
-		- [ ] Wednesday
-		- [ ] Thursday
-		- [ ] Friday
-	- [ ] 1 weeks of 12 - 5pm
-		- [ ] Monday
-		- [ ] Tuesday
-		- [ ] Wednesday
-		- [ ] Thursday
-		- [ ] Friday
-	- [ ] 2 weeks of 12 - 5pm
-		- [ ] Monday
-		- [ ] Tuesday
-		- [ ] Wednesday
-		- [ ] Thursday
-		- [ ] Friday
 ###### Seeing our addictions
 We must give up many things to which we are addicted, considering them to be good. Otherwise, courage will vanish, which should continually test itself. Greatness of soul will be lost, which can’t stand out unless it disdains as petty what the mob regards as most desirable
 
@@ -59,15 +29,6 @@ We must give up many things to which we are addicted, considering them to be goo
 Defining your values is about understanding what truly matters to you, independent of external pressures or fleeting emotions. Here’s a structured approach to discovering and solidifying your core values:
 
 ### **1. Reflect on Meaningful Experiences**
-
-Think about moments in your life when you felt truly fulfilled, proud, or deeply connected.
-
-- What were you doing? Coldplay concert with Jayali, Helping apache when he got tinnitus()
-- Who were you with? Jayali apache, amma and minindu
-- What values were present in those moments (e.g., honesty, courage, learning, kindness)? - 
-	- Love, Joy 
-	- kindness, empathy, courage 
-	- 
 
 ### **2. Identify What Angers or Inspires You**
 

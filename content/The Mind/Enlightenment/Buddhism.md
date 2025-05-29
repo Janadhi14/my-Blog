@@ -1,5 +1,5 @@
 ## Who was the buddha?
-most commonly to **Siddhartha Gautama** (also spelled **Gautama** or **Gotama**), a spiritual teacher and philosopher who lived in ancient India around the 5th century BCE. He is regarded as the founder of **Buddhism**
+Most commonly to **Siddhartha Gautama** (also spelled **Gautama** or **Gotama**), a spiritual teacher and philosopher who lived in ancient India around the 5th century BCE. He is regarded as the founder of **Buddhism**
 
 
 - **Birth and Early Life**: Siddhartha was born into a royal family in the Shakya clan (in the region that is now part of Nepal). Despite his father’s efforts to shield him from hardship, he encountered suffering and became determined to find a way to overcome it.
@@ -16,7 +16,7 @@ most commonly to **Siddhartha Gautama** (also spelled **Gautama** or **Gotama**)
 
 
 ## Meditation
-Meditation is one of the core components of buddishim. it is used to cultivate mental clarity, emotional resilience and ultimatley enlightening or liberation from suffering 
+Meditation is one of the core components of buddishim. it is used to cultivate mental clarity, emotional resilience and ultimately enlightening or liberation from suffering 
 
 
 ### Techniques
@@ -27,7 +27,7 @@ Meditation is one of the core components of buddishim. it is used to cultivate m
 #### Toglen
 #### Kinhin
 #### Yoga Nidra
-To keep bad men from dominating you need good men who are capable of being quite terrible
+
 
 
 
