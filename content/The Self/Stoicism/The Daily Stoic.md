@@ -13,22 +13,20 @@
 					- How do you reach this?
 						- What feels like work to others but is fun to you?
 							- Being on a computer and writing notes feels like fun 
-							- cybersecurity related information 
+							- cybersecurity, IT, or Intelligence related information 
 							- learning things and memorizing
-							- Talking with people 
+							- Interacting with people 
 ###### Seeing our addictions
 We must give up many things to which we are addicted, considering them to be good. Otherwise, courage will vanish, which should continually test itself. Greatness of soul will be lost, which can’t stand out unless it disdains as petty what the mob regards as most desirable
 
-
 -  addiction is when we’ve “lost the freedom to abstain.”
 - What that addiction is for you can vary: 
-	- 
-	- 
 - But you must reclaim the ability to abstain because within it is your clarity and self-control.
 
 Defining your values is about understanding what truly matters to you, independent of external pressures or fleeting emotions. Here’s a structured approach to discovering and solidifying your core values:
 
 ### **1. Reflect on Meaningful Experiences**
+
 
 ### **2. Identify What Angers or Inspires You**
 
@@ -83,9 +81,13 @@ DISCOURSES, 4.4.39
 
 
 “Understand at last that you have something in you more powerful and divine than what causes the bodily passions and pulls you like a mere puppet. What thoughts now occupy my mind? Is it not fear, suspicion, desire, or something like that?” —MARCUS AURELIUS, MEDITATIONS, 12.19 
+
 Think of all the interests vying for a share of your wallet or for a second of your attention. Food scientists are engineering products to exploit your taste buds. Silicon Valley engineers are designing applications as addictive as gambling. The media is manufacturing stories to provoke outrage and anger. These are just a small slice of the temptations and forces acting on us—distracting us and pulling us away from the things that truly matter. Marcus, thankfully, was not exposed to these extreme parts of our modern culture. But he knew plenty of distracting sinkholes too: gossip, the endless call of work, as well as fear, suspicion, lust. Every human being is pulled by these internal and external forces that are increasingly more powerful and harder to resist. Philosophy is simply asking us to pay careful attention and to strive to be more than a pawn. As Viktor Frankl puts it in The Will to Meaning, “Man is pushed by drives but pulled by values.” These values and inner awareness prevent us from being puppets. Sure, paying attention requires work and awareness, but isn’t that better than being jerked about on a string?
 
 
-## The cause of my irritation is not in the person but in me 
 
-## Neither am I so crazy as to desire illness, but if I must suffer illness, I’ll wish to do nothing rash or dishonorable. The point is not to wish for these adversities, but for the virtue that makes adversities bearable.
+## Quotes 
+- Neither am I so crazy as to desire illness, but if I must suffer illness, I’ll wish to do nothing rash or dishonorable. The point is not to wish for these adversities, but for the virtue that makes adversities bearable.
+- To keep bad men from dominating you need good men who are capable of being quite terrible
+- The cause of my irritation is not in the person but in me
+- wisdom and ignorance 

@@ -1,0 +1,66 @@
+- [ ] Exploring the Functions of Networking
+- [ ] Introducing the Host-To-Host
+- [ ] Communications Model
+- [ ] Operating Cisco IOS Software
+- [ ] Introducing LANs
+- [ ] Exploring the TCP/IP Link Layer
+- [ ] Explaining Wireless Fundamentals
+- [ ] Introducing the TCP/IP Internet Layer, IPv4 Addressing, and Subnets
+- [ ] Explaining the TCP/IP Transport Layer and Application Layer
+- [ ] Configuring a Cisco Router
+- [ ] Introducing Basic IPv6
+- [ ] Implementing VLANs and Trunks
+- [ ] Routing Between VLANs
+- [ ] Building Redundant Switched Topologies
+- [ ] Improving Redundant Switched Topologies with EtherChannel
+- [ ] Exploring the Functions of Routing
+- [ ] Exploring the Packet Delivery Process
+- [ ] Troubleshooting a Simple Network
+- [ ] Configuring Static Routing
+- [ ] Introducing OSPF
+- [ ] Exploring Layer 3 Redundancy
+- [ ] Explaining the Basics of ACL
+- [ ] Examining the Security Threat Landscape
+- [ ] Implementing Threat Defense Technologies
+- [ ] Securing Administrative Access
+- [ ] Implementing Device Hardening
+- [ ] Introducing WAN Technologies
+- [ ] Enabling Internet Connectivity
+- [ ] Introducing QoS
+- [ ] Introducing System Monitoring
+- [ ] Introducing Network Programmability
+- [ ] Introducing Architectures and Virtualization
+- [ ] Explaining Software-Defined Networking
+- [ ] Introducing AI and ML in Network Operations
+
+## Lab overview:
+This course contains 29 hands-on lab exercises.
+- [ ] Discovery 1: Get Started with Cisco CLI
+- [ ] Discovery 2: Observe How a Switch Operates
+- [ ] Discovery 3: Perform Basic Switch Configuration
+- [ ] Discovery 4: Inspect TCP/IP Applications
+- [ ] Discovery 5: Configure an Interface on a Cisco Router
+- [ ] Discovery 6: Configure and Verify Layer 2 Discovery Protocols
+- [ ] Discovery 7: Configure Default Gateway
+- [ ] Discovery 8: Explore Packet Forwarding
+- [ ] Discovery 9: Troubleshoot Switch Media and Port Issues
+- [ ] Discovery 10: Troubleshoot Port Duplex Issues
+- [ ] Discovery 11: Configure Basic IPv6 Connectivity
+- [ ] Discovery 12: Configure and Verify IPv4 Static Routes
+- [ ] Discovery 13: Configure IPv6 Static Routes
+- [ ] Discovery 14: Configure VLANs and Trunks
+- [ ] Discovery 15: Configure Inter-VLAN Routing
+- [ ] Discovery 16: Configure and Verify Single-Area OSPF
+- [ ] Discovery 17: Configure and Verify EtherChannel
+- [ ] Discovery 18: Configure and Verify IPv4 ACLs
+- [ ] Discovery 19: Configure a Provider-Assigned IPv4 Address
+- [ ] Discovery 20: Configure Static NAT
+- [ ] Discovery 21: Configure Dynamic NAT and PAT
+- [ ] Discovery 22: Configure and Verify NTP
+- [ ] Discovery 25: Secure Console and Remote Access
+- [ ] Discovery 26: Enable and Limit Remote Access Connectivity
+- [ ] Discovery 27: Configure and Verify Port Security
+- [ ] Discovery 28: Log in to and Monitor the WLC
+- [ ] Discovery 29: Configure an Open Wireless Network
+- [ ] Discovery 30: Define a RADIUS Server and Enable SNMP and Syslog
+- [ ] Discovery 31: Configure a WLAN to Use WPA2 PSK

@@ -1,4 +1,5 @@
-## What is Wireless Technology?
-## Types of Wireless Networking
-## Wireless standards 
-## Wireless Authentication
+## Indoor non-Wi-Fi Wireless technologies
+3 main types fo wireless topologies:
+- WPAN
+- WLAN
+- WMAN

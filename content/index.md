@@ -12,16 +12,17 @@ Connect with me on:
 My name is Janadhi.
 - Hard working, result focused and clear communicator
 - Networking Intern @ University of Otago.
-- I am interested in Cyber Security, Network Engineering, Machine Learning and Intelligence Gathering.
+- I am interested in **Cyber Security**, **Intelligence Gathering**, **Network Engineering** & **Artificial Intelligence**(In that order).
 - This blog is small collection of the notes that I choose to make public. 
 - Working my way through OSINT Techniques by Michael Bazzell.
 ## My Skills:
-- Microsoft XDR
 - OSINT
+- Microsoft XDR
 - Entra ID
 - Cisco (DNAC, ISE, Prime, WLC)
 - Microsoft Sentinel
 - Azure
+- AWS
 - Axiom 
 - Burpsuite
 - ZAP
@@ -33,7 +34,7 @@ My name is Janadhi.
 - Oracle Identity Manager
 - BlueCat
 - Ekahau Wireless Survey
-≈
+
 
 ## File System 
 ```

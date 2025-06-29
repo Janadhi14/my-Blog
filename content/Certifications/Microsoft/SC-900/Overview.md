@@ -1,0 +1,3 @@
+- Pretty simple examination
+- Final score - 920/1000
+- 4 weeks practice
