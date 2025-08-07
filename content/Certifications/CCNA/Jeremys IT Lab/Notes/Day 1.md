@@ -3,7 +3,7 @@
 What is a network?
 - A computer network is a digital telecommunications network which allows nodes to share resources 
 - Router
-- ![[content/Certifications/CCNA/Jeremys IT Lab/Screenshot.png | 50]]
+- ![[content/Certifications/CCNA/Jeremys IT Lab/Notes/Screenshot.png| 50]]
 - Switch
 - Firewall 
 	- software 
@@ -234,13 +234,13 @@ The name of the IEEE task group that defined the standard is also used to refer 
 The IEEE assigns working groups to develop specific technologies. The two main working groups relevant to the CCNA are 802.3 (tasked with developing the Ethernet standard for wired networks) and 802.11 (wireless LANs, also known as Wi-Fi).
 
 A handful of ethernet standards 
-![[Screenshot 1.png]]
+![[content/Certifications/CCNA/Jeremys IT Lab/Notes/Screenshot 1.png]]
 Each of these stanrads supports a maximum cable length of 100meters. 
 - using a cable length that is longer than the listed maximum can result in signal attenuation ad decreased performance 
 - Maximum cable length can be a problem for copper UTP connections
 - Increased maximum cable length is a major advantange of fibre-optic cables over copper UTP cables 
 
-![[Screenshot 2.png]]
+![[content/Certifications/CCNA/Jeremys IT Lab/Notes/Screenshot 2.png]]
 - Although these days all UTP cables used for network communications have 4 pairs of wires(8 wires) and not all of the ethernet standards use all 4 pairs of wires 
 
 

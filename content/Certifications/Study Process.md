@@ -23,4 +23,17 @@ In addition to this there will be practical lab elements that will require hands
 ## Study timeline 
 Prior to sitting an exam I always try to do a practice paper without any knowledge. 
 - after doing this practice paper you will realise what are the concepts that are going to be covered in the exam 
-- 
+
+
+Phase 1 andphase 2 requirements 
+
+
+
+Testing frame 
+UAT 
+integration testing 
+
+BVT testing 
+ - talk to 
+ - Cyber testing 
+	 - 

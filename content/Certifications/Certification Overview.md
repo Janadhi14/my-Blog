@@ -1,4 +1,4 @@
 ![[Cybersecurity certifications.png]]
 ## AWS
-![[AWScertifications.png]]
+![[content/Certifications/Amazon/AWScertifications.png]]
 

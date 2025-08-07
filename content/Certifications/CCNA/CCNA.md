@@ -11,3 +11,10 @@ lab simulations
 “general consensus is that the lab simulations are more heavily weighted”
 
 ## How to study for the CCNA 
+
+
+
+
+
+Monday -Friday 1:30 - 4:30pm
+Saturday, Sunday- 10:30- 3:30pm 
