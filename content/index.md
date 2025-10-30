@@ -1,7 +1,7 @@
 ---
 title: Welcome to my Blog
 ---
-![[ProfilePic.png|200]]
+
 
 Connect with me on:
 - [[https://janadhi14.github.io/Janadhi/|Portfolio Website]]
@@ -10,9 +10,9 @@ Connect with me on:
 
 ## Hello World!  
 My name is Janadhi.
-- Hard working, result focused and clear communicator
-- Networking Intern @ University of Otago.
-- I am interested in **Cyber Security**, **Intelligence Gathering**, **Network Engineering** & **Artificial Intelligence**(In that order).
+- Hard working, relentless, focused and clear communicator
+- Intern Engineer @ University of Otago.
+- I am interested in **Cyber Security**, **Intelligence Gathering**, **Networking** & **Artificial Intelligence** (In that order).
 - This blog is small collection of the notes that I choose to make public. 
 - Working my way through OSINT Techniques by Michael Bazzell.
 ## My Skills:
@@ -34,6 +34,7 @@ My name is Janadhi.
 - Oracle Identity Manager
 - BlueCat
 - Ekahau Wireless Survey
+- 
 
 
 ## File System 
