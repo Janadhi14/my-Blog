@@ -195,16 +195,24 @@ https://www.runzero.com/blog/introducing-runzerohound/
 
 
 
-
-- Comptia Sec+ exam next week
-- I don't just fix things, I come up with out of the box automations, scripts and code on a daily basis to make processes efficient and develop solutions, something that I think that would be hugely beneficial in this role,
-- I think that being on the early stages allows me to pick up new processes really quicly seeing as you have to be on the cutting edge of emergent threats.
-- Specific Certifications from AttackIQ for:
+- Specific Certifications that I have for:
 	- Advanced Cyber Threat Intelligence Writing reports course.
 	- CTI foundations
 	- Threat informed defense with M3TID
-- I am already familiar working with the Cyber team, having worked with them in a recent incident response, Network Access auditing and BAU tasks now.
-- I have deployed multiple applications end to end from local AI MCP servers to homelab AD Server environments, to secure Cloud applications on AWS, GCP and even Azure so I offer that versatility to make things efficient, scripting and automation workflows for developing monitoring solutions and connectors for threat intelligence. 
+- Comptia Sec+ exam next week
+- Also I publish on my blog, https://janadhi14.github.io/my-Blog/ if you want to check out my skills and content that I have learnt and continue to learn.
+- I've built strong relationships across networking and security teams - the exact stakeholders a threat intelligence function needs to serve. I understand our infrastructure from working directly on it.
+- I don't just fix things,I don't wait for processes to exist, I create them. I come up with automations, scripts, data scraping solutions, visualizations and code on a daily basis to make processes efficient and develop tools, something that I think that would be hugely beneficial in this role, I want to contribute so that we have a proactive approach to CS rather than the current reactive approach to improve our current Security posture and maturity.
+- I think that being on the early stages allows me to pick up new processes really quickly seeing as you have to be on the cutting edge of emergent threats.
 
-since this is a new position then you need someone who is goinng to turn it into a unique potiion and that is something I can do becaues I can take that inititave and make 
-for this position I think you need someone who is on ther 
+- I am already familiar working with the Cyber team, having worked with them in a recent incident response, Network Access auditing and BAU tasks now.
+- I have deployed multiple applications end to end from local AI MCP servers to homelab AD Server environments, to secure Cloud applications so I offer that versatility to make things efficient, scripting and automation workflows for developing monitoring solutions and connectors for threat intelligence. 
+
+since this is a new position then you need someone who is going to turn it into a unique position and that is something I can do because I can take that initiative and make 
+for this position I think you need someone who is on there 
+
+Threat intelligence _is_ research, technical writing, and analysis
+
+Plasticity so I can pick up things quite quickly, still early in my carrer and with that I know I bring a good work ethic 
+I also maintain connections with systems team and very good friends with every engineer in the netwokring team
+
